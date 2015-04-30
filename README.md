@@ -12,7 +12,7 @@ sqlite3 installed - they should be available via your package manager.
 You will also need the cleanlinks tool from the xutil-dev package.
 
 1)  Copy the python code here:
-> http://stackoverflow.com/a/8101937/2259311
+> https://web.archive.org/web/20150430103332/https://stackoverflow.com/questions/3085153/how-to-parse-the-manifest-mbdb-file-in-an-ios-4-0-itunes-backup/8101937
 > Save the code as mbdbparse.py in /usr/local/bin and
 > make executable.
 2)  Download my project scripts and copy to
